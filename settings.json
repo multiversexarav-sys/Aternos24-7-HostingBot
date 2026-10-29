@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Dominated-c9ih.aternos.me",
+    "port": 42128,
     "version": "",
     "try-creative": false
   },
@@ -38,7 +38,7 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "max-reconnect-delay": 10000
   },
   "movement": {
     "enabled": true,
@@ -73,7 +73,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1565352842309410876/vLY6a2VzaULCsybOfdUDpyiL8nccnrMjzZTx_KsFaSG01-la9Nfn70iJ-29EoSFDkN65",
     "events": {
       "connect": true,
       "disconnect": true,
